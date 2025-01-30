@@ -1,0 +1,1 @@
+This example demonstrates a common issue in JavaScript where loose typing leads to unexpected type coercion. The `foo` function, intended for numerical addition, produces string concatenation when provided string arguments, leading to incorrect results.  The solution involves explicit type checking and conversion for more robust behavior.
